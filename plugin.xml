@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_26_00_a_REF_OutputItem_Logic -->
+      <package
+            uri="F_26_00_a_REF_OutputItem_Logic"
+            class="F_26_00_a_REF_OutputItem_Logic.F_26_00_a_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_26_00_a_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_23_02_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_23_02_REF_OutputItem_output_layer_amendment"
+            class="F_23_02_REF_OutputItem_output_layer_amendment.F_23_02_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_23_02_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_09_02_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_09_02_REF_OutputItem_output_layer_amendment"
+            class="F_09_02_REF_OutputItem_output_layer_amendment.F_09_02_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_09_02_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_24_03_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_24_03_REF_OutputItem_output_layer_amendment"
+            class="F_24_03_REF_OutputItem_output_layer_amendment.F_24_03_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_24_03_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_18_02_c_REF_OutputItem_Logic -->
+      <package
+            uri="F_18_02_c_REF_OutputItem_Logic"
+            class="F_18_02_c_REF_OutputItem_Logic.F_18_02_c_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_18_02_c_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_15_00_b_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_15_00_b_REF_OutputItem_output_layer_amendment"
+            class="F_15_00_b_REF_OutputItem_output_layer_amendment.F_15_00_b_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_15_00_b_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_23_05_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_23_05_REF_OutputItem_output_layer_amendment"
+            class="F_23_05_REF_OutputItem_output_layer_amendment.F_23_05_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_23_05_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_23_03_REF_OutputItem_Logic -->
+      <package
+            uri="F_23_03_REF_OutputItem_Logic"
+            class="F_23_03_REF_OutputItem_Logic.F_23_03_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_23_03_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_26_00_b_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_26_00_b_REF_OutputItem_output_layer_amendment"
+            class="F_26_00_b_REF_OutputItem_output_layer_amendment.F_26_00_b_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_26_00_b_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_40_02_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_40_02_REF_OutputItem_output_layer_amendment"
+            class="F_40_02_REF_OutputItem_output_layer_amendment.F_40_02_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_40_02_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_23_01_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_23_01_REF_OutputItem_output_layer_amendment"
+            class="F_23_01_REF_OutputItem_output_layer_amendment.F_23_01_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_23_01_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_09_01_REF_OutputItem_Logic -->
+      <package
+            uri="F_09_01_REF_OutputItem_Logic"
+            class="F_09_01_REF_OutputItem_Logic.F_09_01_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_09_01_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_40_01_REF_OutputItem_Logic -->
+      <package
+            uri="F_40_01_REF_OutputItem_Logic"
+            class="F_40_01_REF_OutputItem_Logic.F_40_01_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_40_01_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_47_00_REF_OutputItem_Logic -->
+      <package
+            uri="F_47_00_REF_OutputItem_Logic"
+            class="F_47_00_REF_OutputItem_Logic.F_47_00_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_47_00_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_23_02_REF_OutputItem_Logic -->
+      <package
+            uri="F_23_02_REF_OutputItem_Logic"
+            class="F_23_02_REF_OutputItem_Logic.F_23_02_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_23_02_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_20_05_b_REF_OutputItem_Logic -->
+      <package
+            uri="F_20_05_b_REF_OutputItem_Logic"
+            class="F_20_05_b_REF_OutputItem_Logic.F_20_05_b_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_20_05_b_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_06_01_REF_OutputItem_Logic -->
+      <package
+            uri="F_06_01_REF_OutputItem_Logic"
+            class="F_06_01_REF_OutputItem_Logic.F_06_01_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_06_01_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_13_01_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_13_01_REF_OutputItem_output_layer_amendment"
+            class="F_13_01_REF_OutputItem_output_layer_amendment.F_13_01_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_13_01_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_25_03_b_REF_OutputItem_Logic -->
+      <package
+            uri="F_25_03_b_REF_OutputItem_Logic"
+            class="F_25_03_b_REF_OutputItem_Logic.F_25_03_b_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_25_03_b_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_23_04_REF_OutputItem_Logic -->
+      <package
+            uri="F_23_04_REF_OutputItem_Logic"
+            class="F_23_04_REF_OutputItem_Logic.F_23_04_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_23_04_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_13_03_1_b_REF_OutputItem_Logic -->
+      <package
+            uri="F_13_03_1_b_REF_OutputItem_Logic"
+            class="F_13_03_1_b_REF_OutputItem_Logic.F_13_03_1_b_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_13_03_1_b_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_47_00_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_47_00_REF_OutputItem_output_layer_amendment"
+            class="F_47_00_REF_OutputItem_output_layer_amendment.F_47_00_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_47_00_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_25_02_c_REF_OutputItem_Logic -->
+      <package
+            uri="F_25_02_c_REF_OutputItem_Logic"
+            class="F_25_02_c_REF_OutputItem_Logic.F_25_02_c_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_25_02_c_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_18_02_a_REF_OutputItem_Logic -->
+      <package
+            uri="F_18_02_a_REF_OutputItem_Logic"
+            class="F_18_02_a_REF_OutputItem_Logic.F_18_02_a_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_18_02_a_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_19_00_d_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_19_00_d_REF_OutputItem_output_layer_amendment"
+            class="F_19_00_d_REF_OutputItem_output_layer_amendment.F_19_00_d_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_19_00_d_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_13_02_1_b_REF_OutputItem_Logic -->
+      <package
+            uri="F_13_02_1_b_REF_OutputItem_Logic"
+            class="F_13_02_1_b_REF_OutputItem_Logic.F_13_02_1_b_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_13_02_1_b_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_09_01_1_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_09_01_1_REF_OutputItem_output_layer_amendment"
+            class="F_09_01_1_REF_OutputItem_output_layer_amendment.F_09_01_1_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_09_01_1_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_13_02_1_b_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_13_02_1_b_REF_OutputItem_output_layer_amendment"
+            class="F_13_02_1_b_REF_OutputItem_output_layer_amendment.F_13_02_1_b_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_13_02_1_b_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_23_03_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_23_03_REF_OutputItem_output_layer_amendment"
+            class="F_23_03_REF_OutputItem_output_layer_amendment.F_23_03_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_23_03_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_19_00_d_REF_OutputItem_Logic -->
+      <package
+            uri="F_19_00_d_REF_OutputItem_Logic"
+            class="F_19_00_d_REF_OutputItem_Logic.F_19_00_d_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_19_00_d_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_23_05_REF_OutputItem_Logic -->
+      <package
+            uri="F_23_05_REF_OutputItem_Logic"
+            class="F_23_05_REF_OutputItem_Logic.F_23_05_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_23_05_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_40_02_REF_OutputItem_Logic -->
+      <package
+            uri="F_40_02_REF_OutputItem_Logic"
+            class="F_40_02_REF_OutputItem_Logic.F_40_02_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_40_02_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_40_01_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_40_01_REF_OutputItem_output_layer_amendment"
+            class="F_40_01_REF_OutputItem_output_layer_amendment.F_40_01_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_40_01_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_06_01_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_06_01_REF_OutputItem_output_layer_amendment"
+            class="F_06_01_REF_OutputItem_output_layer_amendment.F_06_01_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_06_01_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_18_02_a_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_18_02_a_REF_OutputItem_output_layer_amendment"
+            class="F_18_02_a_REF_OutputItem_output_layer_amendment.F_18_02_a_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_18_02_a_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_13_03_1_b_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_13_03_1_b_REF_OutputItem_output_layer_amendment"
+            class="F_13_03_1_b_REF_OutputItem_output_layer_amendment.F_13_03_1_b_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_13_03_1_b_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_09_01_1_REF_OutputItem_Logic -->
+      <package
+            uri="F_09_01_1_REF_OutputItem_Logic"
+            class="F_09_01_1_REF_OutputItem_Logic.F_09_01_1_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_09_01_1_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_42_00_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_42_00_REF_OutputItem_output_layer_amendment"
+            class="F_42_00_REF_OutputItem_output_layer_amendment.F_42_00_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_42_00_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_18_02_c_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_18_02_c_REF_OutputItem_output_layer_amendment"
+            class="F_18_02_c_REF_OutputItem_output_layer_amendment.F_18_02_c_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_18_02_c_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_25_03_a_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_25_03_a_REF_OutputItem_output_layer_amendment"
+            class="F_25_03_a_REF_OutputItem_output_layer_amendment.F_25_03_a_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_25_03_a_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_20_07_1_REF_OutputItem_Logic -->
+      <package
+            uri="F_20_07_1_REF_OutputItem_Logic"
+            class="F_20_07_1_REF_OutputItem_Logic.F_20_07_1_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_20_07_1_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_13_03_1_a_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_13_03_1_a_REF_OutputItem_output_layer_amendment"
+            class="F_13_03_1_a_REF_OutputItem_output_layer_amendment.F_13_03_1_a_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_13_03_1_a_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_18_02_b_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_18_02_b_REF_OutputItem_output_layer_amendment"
+            class="F_18_02_b_REF_OutputItem_output_layer_amendment.F_18_02_b_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_18_02_b_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_21_00_REF_OutputItem_Logic -->
+      <package
+            uri="F_21_00_REF_OutputItem_Logic"
+            class="F_21_00_REF_OutputItem_Logic.F_21_00_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_21_00_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated finrep_domains -->
+      <package
+            uri="finrep_domains"
+            class="finrep_domains.Finrep_domainsPackage"
+            genModel="src-gen/finrep_domains.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_20_05_a_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_20_05_a_REF_OutputItem_output_layer_amendment"
+            class="F_20_05_a_REF_OutputItem_output_layer_amendment.F_20_05_a_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_20_05_a_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_26_00_a_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_26_00_a_REF_OutputItem_output_layer_amendment"
+            class="F_26_00_a_REF_OutputItem_output_layer_amendment.F_26_00_a_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_26_00_a_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_05_01_REF_OutputItem_Logic -->
+      <package
+            uri="F_05_01_REF_OutputItem_Logic"
+            class="F_05_01_REF_OutputItem_Logic.F_05_01_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_05_01_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_25_03_b_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_25_03_b_REF_OutputItem_output_layer_amendment"
+            class="F_25_03_b_REF_OutputItem_output_layer_amendment.F_25_03_b_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_25_03_b_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_25_03_a_REF_OutputItem_Logic -->
+      <package
+            uri="F_25_03_a_REF_OutputItem_Logic"
+            class="F_25_03_a_REF_OutputItem_Logic.F_25_03_a_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_25_03_a_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_13_02_1_a_REF_OutputItem_Logic -->
+      <package
+            uri="F_13_02_1_a_REF_OutputItem_Logic"
+            class="F_13_02_1_a_REF_OutputItem_Logic.F_13_02_1_a_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_13_02_1_a_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated input_tables -->
+      <package
+            uri="input_tables"
+            class="input_tables.Input_tablesPackage"
+            genModel="src-gen/input_tables.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_24_03_REF_OutputItem_Logic -->
+      <package
+            uri="F_24_03_REF_OutputItem_Logic"
+            class="F_24_03_REF_OutputItem_Logic.F_24_03_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_24_03_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_09_01_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_09_01_REF_OutputItem_output_layer_amendment"
+            class="F_09_01_REF_OutputItem_output_layer_amendment.F_09_01_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_09_01_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_23_06_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_23_06_REF_OutputItem_output_layer_amendment"
+            class="F_23_06_REF_OutputItem_output_layer_amendment.F_23_06_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_23_06_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_25_02_b_REF_OutputItem_Logic -->
+      <package
+            uri="F_25_02_b_REF_OutputItem_Logic"
+            class="F_25_02_b_REF_OutputItem_Logic.F_25_02_b_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_25_02_b_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_25_02_a_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_25_02_a_REF_OutputItem_output_layer_amendment"
+            class="F_25_02_a_REF_OutputItem_output_layer_amendment.F_25_02_a_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_25_02_a_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated sdd_domains -->
+      <package
+            uri="sdd_domains"
+            class="sdd_domains.Sdd_domainsPackage"
+            genModel="src-gen/sdd_domains.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_42_00_REF_OutputItem_Logic -->
+      <package
+            uri="F_42_00_REF_OutputItem_Logic"
+            class="F_42_00_REF_OutputItem_Logic.F_42_00_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_42_00_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_20_05_b_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_20_05_b_REF_OutputItem_output_layer_amendment"
+            class="F_20_05_b_REF_OutputItem_output_layer_amendment.F_20_05_b_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_20_05_b_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_23_01_REF_OutputItem_Logic -->
+      <package
+            uri="F_23_01_REF_OutputItem_Logic"
+            class="F_23_01_REF_OutputItem_Logic.F_23_01_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_23_01_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_18_02_b_REF_OutputItem_Logic -->
+      <package
+            uri="F_18_02_b_REF_OutputItem_Logic"
+            class="F_18_02_b_REF_OutputItem_Logic.F_18_02_b_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_18_02_b_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_20_05_a_REF_OutputItem_Logic -->
+      <package
+            uri="F_20_05_a_REF_OutputItem_Logic"
+            class="F_20_05_a_REF_OutputItem_Logic.F_20_05_a_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_20_05_a_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_25_02_c_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_25_02_c_REF_OutputItem_output_layer_amendment"
+            class="F_25_02_c_REF_OutputItem_output_layer_amendment.F_25_02_c_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_25_02_c_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_13_02_1_a_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_13_02_1_a_REF_OutputItem_output_layer_amendment"
+            class="F_13_02_1_a_REF_OutputItem_output_layer_amendment.F_13_02_1_a_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_13_02_1_a_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_23_06_REF_OutputItem_Logic -->
+      <package
+            uri="F_23_06_REF_OutputItem_Logic"
+            class="F_23_06_REF_OutputItem_Logic.F_23_06_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_23_06_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_25_02_a_REF_OutputItem_Logic -->
+      <package
+            uri="F_25_02_a_REF_OutputItem_Logic"
+            class="F_25_02_a_REF_OutputItem_Logic.F_25_02_a_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_25_02_a_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_09_02_REF_OutputItem_Logic -->
+      <package
+            uri="F_09_02_REF_OutputItem_Logic"
+            class="F_09_02_REF_OutputItem_Logic.F_09_02_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_09_02_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_21_00_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_21_00_REF_OutputItem_output_layer_amendment"
+            class="F_21_00_REF_OutputItem_output_layer_amendment.F_21_00_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_21_00_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_05_01_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_05_01_REF_OutputItem_output_layer_amendment"
+            class="F_05_01_REF_OutputItem_output_layer_amendment.F_05_01_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_05_01_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_23_04_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_23_04_REF_OutputItem_output_layer_amendment"
+            class="F_23_04_REF_OutputItem_output_layer_amendment.F_23_04_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_23_04_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_20_07_1_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_20_07_1_REF_OutputItem_output_layer_amendment"
+            class="F_20_07_1_REF_OutputItem_output_layer_amendment.F_20_07_1_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_20_07_1_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_13_01_REF_OutputItem_Logic -->
+      <package
+            uri="F_13_01_REF_OutputItem_Logic"
+            class="F_13_01_REF_OutputItem_Logic.F_13_01_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_13_01_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_13_03_1_a_REF_OutputItem_Logic -->
+      <package
+            uri="F_13_03_1_a_REF_OutputItem_Logic"
+            class="F_13_03_1_a_REF_OutputItem_Logic.F_13_03_1_a_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_13_03_1_a_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_15_00_b_REF_OutputItem_Logic -->
+      <package
+            uri="F_15_00_b_REF_OutputItem_Logic"
+            class="F_15_00_b_REF_OutputItem_Logic.F_15_00_b_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_15_00_b_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_26_00_b_REF_OutputItem_Logic -->
+      <package
+            uri="F_26_00_b_REF_OutputItem_Logic"
+            class="F_26_00_b_REF_OutputItem_Logic.F_26_00_b_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_26_00_b_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_25_02_b_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_25_02_b_REF_OutputItem_output_layer_amendment"
+            class="F_25_02_b_REF_OutputItem_output_layer_amendment.F_25_02_b_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_25_02_b_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_01_REF_OutputItem_Logic -->
+      <package
+            uri="F_04_01_REF_OutputItem_Logic"
+            class="F_04_01_REF_OutputItem_Logic.F_04_01_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_04_01_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_01_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_04_01_REF_OutputItem_output_layer_amendment"
+            class="F_04_01_REF_OutputItem_output_layer_amendment.F_04_01_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_04_01_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_11_01_REF_OutputItem_Logic -->
+      <package
+            uri="F_11_01_REF_OutputItem_Logic"
+            class="F_11_01_REF_OutputItem_Logic.F_11_01_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_11_01_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_02_1_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_04_02_1_REF_OutputItem_output_layer_amendment"
+            class="F_04_02_1_REF_OutputItem_output_layer_amendment.F_04_02_1_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_04_02_1_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_03_1_REF_OutputItem_Logic -->
+      <package
+            uri="F_04_03_1_REF_OutputItem_Logic"
+            class="F_04_03_1_REF_OutputItem_Logic.F_04_03_1_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_04_03_1_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_18_00_a_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_18_00_a_REF_OutputItem_output_layer_amendment"
+            class="F_18_00_a_REF_OutputItem_output_layer_amendment.F_18_00_a_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_18_00_a_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_06_REF_OutputItem_Logic -->
+      <package
+            uri="F_04_06_REF_OutputItem_Logic"
+            class="F_04_06_REF_OutputItem_Logic.F_04_06_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_04_06_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_41_02_REF_OutputItem_Logic -->
+      <package
+            uri="F_41_02_REF_OutputItem_Logic"
+            class="F_41_02_REF_OutputItem_Logic.F_41_02_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_41_02_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_20_06_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_20_06_REF_OutputItem_output_layer_amendment"
+            class="F_20_06_REF_OutputItem_output_layer_amendment.F_20_06_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_20_06_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_18_00_a_REF_OutputItem_Logic -->
+      <package
+            uri="F_18_00_a_REF_OutputItem_Logic"
+            class="F_18_00_a_REF_OutputItem_Logic.F_18_00_a_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_18_00_a_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_02_2_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_04_02_2_REF_OutputItem_output_layer_amendment"
+            class="F_04_02_2_REF_OutputItem_output_layer_amendment.F_04_02_2_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_04_02_2_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_07_01_REF_OutputItem_Logic -->
+      <package
+            uri="F_07_01_REF_OutputItem_Logic"
+            class="F_07_01_REF_OutputItem_Logic.F_07_01_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_07_01_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_14_00_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_14_00_REF_OutputItem_output_layer_amendment"
+            class="F_14_00_REF_OutputItem_output_layer_amendment.F_14_00_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_14_00_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_10_00_REF_OutputItem_Logic -->
+      <package
+            uri="F_10_00_REF_OutputItem_Logic"
+            class="F_10_00_REF_OutputItem_Logic.F_10_00_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_10_00_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated output_tables -->
+      <package
+            uri="output_tables"
+            class="output_tables.Output_tablesPackage"
+            genModel="src-gen/output_tables.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_11_01_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_11_01_REF_OutputItem_output_layer_amendment"
+            class="F_11_01_REF_OutputItem_output_layer_amendment.F_11_01_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_11_01_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_19_00_c_REF_OutputItem_Logic -->
+      <package
+            uri="F_19_00_c_REF_OutputItem_Logic"
+            class="F_19_00_c_REF_OutputItem_Logic.F_19_00_c_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_19_00_c_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_07_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_04_07_REF_OutputItem_output_layer_amendment"
+            class="F_04_07_REF_OutputItem_output_layer_amendment.F_04_07_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_04_07_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_02_1_REF_OutputItem_Logic -->
+      <package
+            uri="F_04_02_1_REF_OutputItem_Logic"
+            class="F_04_02_1_REF_OutputItem_Logic.F_04_02_1_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_04_02_1_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_20_04_REF_OutputItem_Logic -->
+      <package
+            uri="F_20_04_REF_OutputItem_Logic"
+            class="F_20_04_REF_OutputItem_Logic.F_20_04_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_20_04_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_07_01_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_07_01_REF_OutputItem_output_layer_amendment"
+            class="F_07_01_REF_OutputItem_output_layer_amendment.F_07_01_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_07_01_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_19_00_c_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_19_00_c_REF_OutputItem_output_layer_amendment"
+            class="F_19_00_c_REF_OutputItem_output_layer_amendment.F_19_00_c_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_19_00_c_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_41_01_REF_OutputItem_Logic -->
+      <package
+            uri="F_41_01_REF_OutputItem_Logic"
+            class="F_41_01_REF_OutputItem_Logic.F_41_01_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_41_01_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_09_REF_OutputItem_Logic -->
+      <package
+            uri="F_04_09_REF_OutputItem_Logic"
+            class="F_04_09_REF_OutputItem_Logic.F_04_09_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_04_09_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_41_02_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_41_02_REF_OutputItem_output_layer_amendment"
+            class="F_41_02_REF_OutputItem_output_layer_amendment.F_41_02_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_41_02_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_08_01_a_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_08_01_a_REF_OutputItem_output_layer_amendment"
+            class="F_08_01_a_REF_OutputItem_output_layer_amendment.F_08_01_a_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_08_01_a_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_07_02_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_07_02_REF_OutputItem_output_layer_amendment"
+            class="F_07_02_REF_OutputItem_output_layer_amendment.F_07_02_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_07_02_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_10_00_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_10_00_REF_OutputItem_output_layer_amendment"
+            class="F_10_00_REF_OutputItem_output_layer_amendment.F_10_00_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_10_00_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_19_00_a_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_19_00_a_REF_OutputItem_output_layer_amendment"
+            class="F_19_00_a_REF_OutputItem_output_layer_amendment.F_19_00_a_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_19_00_a_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_41_01_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_41_01_REF_OutputItem_output_layer_amendment"
+            class="F_41_01_REF_OutputItem_output_layer_amendment.F_41_01_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_41_01_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_15_00_a_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_15_00_a_REF_OutputItem_output_layer_amendment"
+            class="F_15_00_a_REF_OutputItem_output_layer_amendment.F_15_00_a_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_15_00_a_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_10_REF_OutputItem_Logic -->
+      <package
+            uri="F_04_10_REF_OutputItem_Logic"
+            class="F_04_10_REF_OutputItem_Logic.F_04_10_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_04_10_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_08_02_REF_OutputItem_Logic -->
+      <package
+            uri="F_08_02_REF_OutputItem_Logic"
+            class="F_08_02_REF_OutputItem_Logic.F_08_02_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_08_02_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_11_02_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_11_02_REF_OutputItem_output_layer_amendment"
+            class="F_11_02_REF_OutputItem_output_layer_amendment.F_11_02_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_11_02_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_20_06_REF_OutputItem_Logic -->
+      <package
+            uri="F_20_06_REF_OutputItem_Logic"
+            class="F_20_06_REF_OutputItem_Logic.F_20_06_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_20_06_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_03_1_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_04_03_1_REF_OutputItem_output_layer_amendment"
+            class="F_04_03_1_REF_OutputItem_output_layer_amendment.F_04_03_1_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_04_03_1_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_07_02_REF_OutputItem_Logic -->
+      <package
+            uri="F_07_02_REF_OutputItem_Logic"
+            class="F_07_02_REF_OutputItem_Logic.F_07_02_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_07_02_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_05_REF_OutputItem_Logic -->
+      <package
+            uri="F_04_05_REF_OutputItem_Logic"
+            class="F_04_05_REF_OutputItem_Logic.F_04_05_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_04_05_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_20_04_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_20_04_REF_OutputItem_output_layer_amendment"
+            class="F_20_04_REF_OutputItem_output_layer_amendment.F_20_04_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_20_04_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_02_2_REF_OutputItem_Logic -->
+      <package
+            uri="F_04_02_2_REF_OutputItem_Logic"
+            class="F_04_02_2_REF_OutputItem_Logic.F_04_02_2_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_04_02_2_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_08_02_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_08_02_REF_OutputItem_output_layer_amendment"
+            class="F_08_02_REF_OutputItem_output_layer_amendment.F_08_02_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_08_02_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_04_1_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_04_04_1_REF_OutputItem_output_layer_amendment"
+            class="F_04_04_1_REF_OutputItem_output_layer_amendment.F_04_04_1_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_04_04_1_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_19_00_b_REF_OutputItem_Logic -->
+      <package
+            uri="F_19_00_b_REF_OutputItem_Logic"
+            class="F_19_00_b_REF_OutputItem_Logic.F_19_00_b_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_19_00_b_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_08_01_a_REF_OutputItem_Logic -->
+      <package
+            uri="F_08_01_a_REF_OutputItem_Logic"
+            class="F_08_01_a_REF_OutputItem_Logic.F_08_01_a_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_08_01_a_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_07_REF_OutputItem_Logic -->
+      <package
+            uri="F_04_07_REF_OutputItem_Logic"
+            class="F_04_07_REF_OutputItem_Logic.F_04_07_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_04_07_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_08_01_b_REF_OutputItem_Logic -->
+      <package
+            uri="F_08_01_b_REF_OutputItem_Logic"
+            class="F_08_01_b_REF_OutputItem_Logic.F_08_01_b_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_08_01_b_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_19_00_b_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_19_00_b_REF_OutputItem_output_layer_amendment"
+            class="F_19_00_b_REF_OutputItem_output_layer_amendment.F_19_00_b_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_19_00_b_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_06_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_04_06_REF_OutputItem_output_layer_amendment"
+            class="F_04_06_REF_OutputItem_output_layer_amendment.F_04_06_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_04_06_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_14_00_REF_OutputItem_Logic -->
+      <package
+            uri="F_14_00_REF_OutputItem_Logic"
+            class="F_14_00_REF_OutputItem_Logic.F_14_00_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_14_00_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_08_01_b_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_08_01_b_REF_OutputItem_output_layer_amendment"
+            class="F_08_01_b_REF_OutputItem_output_layer_amendment.F_08_01_b_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_08_01_b_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_19_00_e_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_19_00_e_REF_OutputItem_output_layer_amendment"
+            class="F_19_00_e_REF_OutputItem_output_layer_amendment.F_19_00_e_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_19_00_e_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_19_00_a_REF_OutputItem_Logic -->
+      <package
+            uri="F_19_00_a_REF_OutputItem_Logic"
+            class="F_19_00_a_REF_OutputItem_Logic.F_19_00_a_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_19_00_a_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_15_00_a_REF_OutputItem_Logic -->
+      <package
+            uri="F_15_00_a_REF_OutputItem_Logic"
+            class="F_15_00_a_REF_OutputItem_Logic.F_15_00_a_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_15_00_a_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_09_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_04_09_REF_OutputItem_output_layer_amendment"
+            class="F_04_09_REF_OutputItem_output_layer_amendment.F_04_09_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_04_09_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_05_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_04_05_REF_OutputItem_output_layer_amendment"
+            class="F_04_05_REF_OutputItem_output_layer_amendment.F_04_05_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_04_05_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_19_00_e_REF_OutputItem_Logic -->
+      <package
+            uri="F_19_00_e_REF_OutputItem_Logic"
+            class="F_19_00_e_REF_OutputItem_Logic.F_19_00_e_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_19_00_e_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_08_REF_OutputItem_Logic -->
+      <package
+            uri="F_04_08_REF_OutputItem_Logic"
+            class="F_04_08_REF_OutputItem_Logic.F_04_08_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_04_08_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_08_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_04_08_REF_OutputItem_output_layer_amendment"
+            class="F_04_08_REF_OutputItem_output_layer_amendment.F_04_08_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_04_08_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_10_REF_OutputItem_output_layer_amendment -->
+      <package
+            uri="F_04_10_REF_OutputItem_output_layer_amendment"
+            class="F_04_10_REF_OutputItem_output_layer_amendment.F_04_10_REF_OutputItem_output_layer_amendmentPackage"
+            genModel="src-gen/F_04_10_REF_OutputItem_output_layer_amendment.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_11_02_REF_OutputItem_Logic -->
+      <package
+            uri="F_11_02_REF_OutputItem_Logic"
+            class="F_11_02_REF_OutputItem_Logic.F_11_02_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_11_02_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated F_04_04_1_REF_OutputItem_Logic -->
+      <package
+            uri="F_04_04_1_REF_OutputItem_Logic"
+            class="F_04_04_1_REF_OutputItem_Logic.F_04_04_1_REF_OutputItem_LogicPackage"
+            genModel="src-gen/F_04_04_1_REF_OutputItem_Logic.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated finrep_output_tables -->
+      <package
+            uri="finrep_output_tables"
+            class="finrep_output_tables.Finrep_output_tablesPackage"
+            genModel="src-gen/finrep_output_tables.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated ldm_domains -->
+      <package
+            uri="ldm_domains"
+            class="ldm_domains.Ldm_domainsPackage"
+            genModel="src-gen/ldm_domains.xcore"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated ldm_entities -->
+      <package
+            uri="ldm_entities"
+            class="ldm_entities.Ldm_entitiesPackage"
+            genModel="src-gen/ldm_entities.xcore"/>
+   </extension>
+
+</plugin>
